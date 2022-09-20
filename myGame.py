@@ -9,7 +9,6 @@ p2 = Actor('ironman',(950,100))
 p3 = Actor('im_l')
 p4 = Actor('th_l')
 
-key = ['Q']
 
 
 speed1 = 7
